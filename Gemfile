@@ -28,3 +28,19 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
+# SEO Tag Plug-in
+# https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/installation.md
+gem 'jekyll-seo-tag'
+
+# Jekyll Sitemap Generator Plugin
+# https://github.com/jekyll/jekyll-sitemap
+gem 'jekyll-sitemap'
+
+# https://github.com/jekyll/jekyll-redirect-from
+gem 'jekyll-redirect-from'
+
+# https://github.com/jeffreytse/jekyll-spaceship
+gem 'jekyll-spaceship'
+
+# https://github.com/jekyll/jekyll-admin
+gem 'jekyll-admin'

@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -18,21 +18,38 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Spindale
+tagline: Walking Trail, Craft Beer, Music
+email: dylan@spindale.host
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+   The town of Spindale, North Carolina was incorporated on August 21, 1923.
+   Spindale is located along U.S. Route 221A between Forest City to the
+   southeast and Rutherfordton to the west. U.S. Route 74A passes through the
+   southern part of town. According to the United States Census Bureau, the town
+   has a total area of 5.5 square miles (14 km2).
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://city.spindale.host" # the base hostname & protocol for your site, e.g. http://example.com
+
+author: Dylan
+twitter:
+  username: Spindale
+  card: summary
+facebook:
+  publisher: ID1234
+twitter_username: spindale
+github_username:  swiftraccoon
+
+logo: /path/to/logo.png
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-spaceship
+  - jekyll-admin
 
 # Exclude from processing.
 # The following items will not be processed, by default.

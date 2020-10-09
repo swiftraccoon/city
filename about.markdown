@@ -4,15 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The town of Spindale, North Carolina was incorporated on August 21, 1923.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Spindale is located along U.S. Route 221A between Forest City to the
+southeast and Rutherfordton to the west. U.S. Route 74A passes through the
+southern part of town.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+According to the United States Census Bureau, the town
+has a total area of 5.5 square miles (14 km2).
 
+Spindale is home to Isothermal Community College, a two-year community college,
+named for its location in the thermal belt, and a part of the North Carolina
+Community College system.
 
-[jekyll-organization]: https://github.com/jekyll
+WNCW, a noncommercial radio station affiliated with NPR, broadcasts from
+Isothermal Community College on a frequency of 88.7mhz. WNCW's programming
+consists of a diverse blend of musical styles. Its eclectic music mix and
+presence on the World Wide Web attracts listeners well beyond the reach of its
+coverage area. 
