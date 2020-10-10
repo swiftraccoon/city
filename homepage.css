@@ -1,0 +1,38 @@
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: #FFFFFF;
+}
+
+body {
+  color: #FFFFFF;
+}
+
+.post-entry {
+  background-attachment: fixed;
+  background-image: url(/post-bg.png);
+  border: 2px solid Violet;
+  border-radius: 15px;
+  text-align: center;
+  color: white;
+}
+
+.navbar-custom .avatar-container {
+  position: absolute;
+  left: 3.31%;
+}
+
+.page-heading {
+  color: white;
+}
+.post-title {
+  color: white;
+}
+.post-meta {
+  color: white;
+}
+
+.navbar-custom .nav-item.dropdown .dropdown-menu {
+  word-break: normal;
+}

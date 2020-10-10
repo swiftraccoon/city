@@ -1,24 +1,25 @@
 ---
+#layouts[post, page, home, minimal]
 layout: page
-title: About
-permalink: /about/
+title: Spindale, NC
+subtitle: Biking/Walking Trail, Music, Craft Beer
+tags: tag0
+cover-img: SpindaleSeal_PROD_FullColorCMYK.jpg
+thumbnail-img: SpindaleSeal_PROD_FullColorCMYK.jpg
+comments: true
+last-updated: October 11, 2020
+full-width: true
+# social
+share-title: social media title
+share-description: social media description
+share-img: SpindaleSeal_PROD_FullColorCMYK.jpg
+readtime: true
+show-avatar: true
+social-share: true
+#
+nav-short: false
+# github options
+#gh-repo: swiftraccoon/city
+#gh-badge: [star, watch, fork, follow]
 ---
-
-The town of Spindale, North Carolina was incorporated on August 21, 1923.
-
-Spindale is located along U.S. Route 221A between Forest City to the
-southeast and Rutherfordton to the west. U.S. Route 74A passes through the
-southern part of town.
-
-According to the United States Census Bureau, the town
-has a total area of 5.5 square miles (14 km2).
-
-Spindale is home to Isothermal Community College, a two-year community college,
-named for its location in the thermal belt, and a part of the North Carolina
-Community College system.
-
-WNCW, a noncommercial radio station affiliated with NPR, broadcasts from
-Isothermal Community College on a frequency of 88.7mhz. WNCW's programming
-consists of a diverse blend of musical styles. Its eclectic music mix and
-presence on the World Wide Web attracts listeners well beyond the reach of its
-coverage area. 
+test test
